@@ -11,6 +11,6 @@
 	<description>PLG_REMOVEFORMAT_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="removeformat">removeformat.php</filename>
-		<folder plugin="removeformat">language</filename>
+		<folder plugin="removeformat">language</folder>
 	</files>
 </extension>
