@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="plugin" group="editors-xtd" method="upgrade">
+	<name>plg_editors-xtd_removeformat</name>
+	<author>Astrid Günther</author>
+	<creationDate>November 2016</creationDate>
+	<copyright>Astrid Günther.</copyright>
+	<license>GNU General Public License version 2 or later;</license>
+	<authorEmail>astrid.guenther@dimna.de</authorEmail>
+	<authorUrl>www.astrid-guenther.de</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_REMOVEFORMAT_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="removeformat">removeformat.php</filename>
+		<folder plugin="removeformat">language</filename>
+	</files>
+</extension>
